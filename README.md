@@ -1,6 +1,6 @@
 # GRAL-Iker-Marquez
 
-Proiektu honen azterketa teorikoa eta esperimentala jasotzen duen TFG-a hurrengo dokumentuan kontsulta daiteke:
+Proiektu honen azterketa teorikoa eta esperimentala jasotzen duen GRAL-a hurrengo dokumentuan kontsulta daiteke:
 
 
 EGILEA: Iker Marquez
